@@ -1,4 +1,4 @@
-# n1rv4na.github.io
+
 <!DOCTYPE html>
 <html lang="lv">
 <head>
